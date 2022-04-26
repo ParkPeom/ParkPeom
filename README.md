@@ -24,8 +24,9 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
+![ParkPeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
+
 <h3 align="center">•••</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
 <p align="center"> 
   <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
   <a href="https://newwisdom.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
