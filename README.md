@@ -3,9 +3,6 @@
 <p align="center">
 I'm Park Peom, a growing developer. 🌱 <br>
 I want to be a person who gives you new wisdom. ✨
-<p align="center">  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
-</p>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 
@@ -38,5 +35,6 @@ I want to be a person who gives you new wisdom. ✨
 
   
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
