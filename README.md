@@ -25,7 +25,6 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 <h3 align="center">•••</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
   <a href="https://newwisdom.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
