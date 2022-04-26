@@ -5,6 +5,7 @@ I'm Park Peom, a growing developer. 🌱 <br>
 I want to be a person who gives you new wisdom. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Kotlin-blueviolet"/>&nbsp  
@@ -24,7 +25,6 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
 
 <h3 align="center">•••</h3>
 <p align="center"> 
