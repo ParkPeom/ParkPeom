@@ -25,10 +25,7 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-Jenkins-lightgray"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
-  ![ParkPeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkPeom&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkpeom&langs_count=8)](https://github.com/parkpeom/github-readme-stats)
-  
+
 </p>
 
 <h3 align="center">•••</h3>
@@ -40,7 +37,7 @@ I want to be a person who gives you new wisdom. ✨
  </a>
   
    
-  
+![ParkPeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkPeom&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkpeom&langs_count=8)](https://github.com/parkpeom/github-readme-stats)
   
   
   
