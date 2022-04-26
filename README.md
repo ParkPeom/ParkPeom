@@ -35,6 +35,6 @@ I want to be a person who gives you new wisdom. ✨
 
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
+![ParkPeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansohxxn&show_icons=true&theme=radical)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
