@@ -6,6 +6,7 @@ I want to be a person who gives you new wisdom. ✨
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Kotlin-blueviolet"/>&nbsp  
@@ -24,6 +25,12 @@ I want to be a person who gives you new wisdom. ✨
   <img src="https://img.shields.io/badge/-Jenkins-lightgray"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+  
+  ![ParkPeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkPeom&show_icons=true)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkpeom&langs_count=8)](https://github.com/parkpeom/github-readme-stats) 
+  
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
 </p>
 
 <h3 align="center">•••</h3>
@@ -31,12 +38,11 @@ I want to be a person who gives you new wisdom. ✨
   <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
   <a href="https://newwisdom.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
   <a href="https://velog.io/@new_wisdom"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
-  <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
-</p>
+  <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/>
+ </a>
+  
+  
 
-![ParkPeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkPeom&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkpeom&langs_count=8)](https://github.com/parkpeom/github-readme-stats) 
-  
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
-</p>
+
+
+
