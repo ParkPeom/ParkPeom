@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Park%20Peom&fontSize=90" />
 
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20&desc=Desc&descAlignY=40)
