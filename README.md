@@ -33,6 +33,5 @@ I want to be a person who gives you new wisdom. ✨
   <a href="mailto:wlgp2500@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
 
 </p>
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
