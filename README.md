@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=Park%20Peom();&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
+https://github.com/gjbae1212/hit-counter  
 I'm Park Peom, a growing developer. 🌱 <br>
 I want to be a person who gives you new wisdom. ✨
 </p>
