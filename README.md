@@ -15,14 +15,9 @@ I want to be a person who gives you new wisdom. ✨
   <br>
   <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-JPA-brightgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Node.js-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Express.js-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Nginx-yellowgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
   <img src="https://img.shields.io/badge/-MariaDB-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-Jenkins-lightgray"/>&nbsp
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 
